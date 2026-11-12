@@ -1,0 +1,31 @@
+# Environnement Python virtuel
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Fichier ZIP original
+data/*.zip
+
+# Dossier d'images brutes locales (59 MB — lien de téléchargement dans README)
+data/Images des pois/
+
+# Rapports, LaTeX et PDF (exclus à la demande de l'utilisateur)
+report/
+*.tex
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.out
+*.toc
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Fichiers OS et temporaires
+.DS_Store
+Thumbs.db
+*.tmp
