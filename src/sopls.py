@@ -151,3 +151,4 @@ def benchmark_sopls():
 
 if __name__ == "__main__":
     benchmark_sopls()
+
